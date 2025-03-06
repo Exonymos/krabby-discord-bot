@@ -16,8 +16,6 @@ let status = [
   },
 ];
 
-const keep_alive = require("./keep_alive.js");
-
 eventHandler(client);
 
 client.on("ready", () => {
