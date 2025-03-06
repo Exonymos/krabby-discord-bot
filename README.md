@@ -1,4 +1,5 @@
 <div align="center">
+
 # krabby-kun
 
 My discord bot, Krabby-kun, is a bot that is designed to be a fun and interactive. It is made with [discord.js](https://discord.js.org/).
