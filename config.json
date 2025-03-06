@@ -1,13 +1,13 @@
 {
-  "testServer": "1125817592779636798",
-  "clientId": "1128720774279221429",
-  "devs": ["732162578368823306"],
+  "testServer": "",
+  "clientId": "",
+  "devs": [""],
 
-  "reactChannelId": "1126645302598844507",
-  "reactEmoji": "⭐",
+  "reactChannelId": "",
+  "reactEmoji": "",
 
-  "guildId": "1125817592779636798",
-  "verifiedRoleId": "1126531338460201062",
-  "noobRoleId": "1126519960127148126",
-  "logChannelId": "1127361100711723028"
+  "guildId": "",
+  "verifiedRoleId": "",
+  "noobRoleId": "",
+  "logChannelId": ""
 }
